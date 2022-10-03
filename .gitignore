@@ -44,3 +44,4 @@ bin/
 
 # Security
 application-oauth.properties
+application-real-db.properties
